@@ -5,5 +5,5 @@ manage employees. It uses technologies such as Angular for the frontend and Spri
 <p align="center">
   <img src="https://e4developer.com/wp-content/uploads/2018/01/spring-boot.png" width="100" style="padding: 20px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Tecnología Django" width="100" style="padding: 20px;" />
-  <img src="" alt="Tecnología MySQL" width="100" />
+  <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" alt="Tecnología MySQL" width="100" />
 </p>
